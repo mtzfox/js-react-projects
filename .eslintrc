@@ -1,5 +1,5 @@
 {
-	"extends": ["wesbos"],
+	"extends": ["airbnb", "wesbos"],
 	"rules": {
 		"no-console": 2,
 		"prettier/prettier": [
